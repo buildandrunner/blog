@@ -75,3 +75,5 @@ build/
 
 # If you use a docker setup
 .dockerignore
+
+.hugo_build.lock
