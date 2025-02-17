@@ -1,0 +1,4 @@
+baseURL = 'https://buildandrunner.github.io/blog'
+languageCode = 'en-us'
+title = 'bandr'
+theme = 'PaperMod'

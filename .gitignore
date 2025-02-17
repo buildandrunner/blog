@@ -1,0 +1,77 @@
+# Compiled output
+/public
+
+# Hugo Cache
+/resources/_gen
+
+# Temporary files and directories
+.DS_Store
+*.swp
+*~
+# Thumbs.db
+.cache
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+
+# Log files
+*.log
+
+# Vendor dependencies (if you use any)
+/vendor
+
+# Node.js dependencies (if you use any for tooling)
+/node_modules
+
+# Personal/Sensitive information (Important!)
+.env  # Environment variables - NEVER commit these!
+config/_secrets.toml # Or similar secret files
+
+# Hugo specific files that should not be tracked
+/themes/*/.git # If you're using git submodules for themes, you might want to exclude them. If not, remove this.
+/layouts/*/.git # Same as themes, but for layouts
+/static/*/.git # Same as themes, but for static content
+/data/*/.git # Same as themes, but for data
+
+# Files related to Github Actions
+.github/workflows/ # Exclude workflows to avoid duplication, Github actions will use them directly
+
+# If you use hugo modules and want to keep them local
+/go.sum
+/go.mod
+
+# If you build the site locally before pushing, you can exclude this, but it is better to rebuild on the CI
+/public
+
+# If you have a local config file that you don't want to share
+config/_local.toml
+
+# Hugo modules cache
+/go.sum
+/go.mod
+
+# Caches for various tools
+.hugo_build_cache
+
+# If you use SCSS and want to exclude the generated CSS
+_site/assets/scss/
+
+# If you use images and want to exclude thumbnails
+.hugo_images
+
+# If you use a JS bundler like Webpack or Parcel
+dist/
+build/
+
+# If you use a static site generator other than Hugo to generate previews
+/.netlify/
+
+# If you use a docker setup
+.dockerignore
