@@ -9,11 +9,11 @@
     <lastBuildDate>Thu, 17 Apr 2025 12:30:01 -0700</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>First</title>
+      <title>Mi primer post</title>
       <link>http://localhost:1313/posts/first/</link>
       <pubDate>Thu, 17 Apr 2025 12:30:01 -0700</pubDate>
       <guid>http://localhost:1313/posts/first/</guid>
-      <description></description>
+      <description>Tengo que escribir un poquito mas. Estos ultimos dias he estado totalmente escondido en mi cuarto, enfrente de la computadora. Si no hablo con nadie, minimo le voy a escribir a la pantalla que tengo enfrente.</description>
     </item>
   </channel>
 </rss>
