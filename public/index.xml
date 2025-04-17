@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>un blogsito</title>
-    <link>http://localhost:1313/</link>
+    <link>https://buildandrunner.github.io/</link>
     <description>Recent content on un blogsito</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 17 Apr 2025 12:30:01 -0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://buildandrunner.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mi primer post</title>
-      <link>http://localhost:1313/posts/first/</link>
+      <link>https://buildandrunner.github.io/posts/first/</link>
       <pubDate>Thu, 17 Apr 2025 12:30:01 -0700</pubDate>
-      <guid>http://localhost:1313/posts/first/</guid>
-      <description>Tengo que escribir un poquito mas. Estos ultimos dias he estado totalmente escondido en mi cuarto, enfrente de la computadora. Si no hablo con nadie, minimo le voy a escribir a la pantalla que tengo enfrente.</description>
+      <guid>https://buildandrunner.github.io/posts/first/</guid>
+      <description>Tengo que escribir un poquito más. Estos últimos días he estado totalmente escondido en mi cuarto, enfrente de la computadora. Si no hablo con nadie, mínimo le voy a escribir a la pantalla que tengo enfrente.</description>
     </item>
   </channel>
 </rss>
