@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on un blogsito</title>
-    <link>http://localhost:33703/categories/</link>
+    <link>https://buildandrunner.github.io/categories/</link>
     <description>Recent content in Categories on un blogsito</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Apr 2025 19:15:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:33703/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://buildandrunner.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Emprendimiento</title>
-      <link>http://localhost:33703/categories/emprendimiento/</link>
+      <link>https://buildandrunner.github.io/categories/emprendimiento/</link>
       <pubDate>Sat, 19 Apr 2025 19:01:45 -0700</pubDate>
-      <guid>http://localhost:33703/categories/emprendimiento/</guid>
+      <guid>https://buildandrunner.github.io/categories/emprendimiento/</guid>
       <description></description>
     </item>
     <item>
       <title>Marketing</title>
-      <link>http://localhost:33703/categories/marketing/</link>
+      <link>https://buildandrunner.github.io/categories/marketing/</link>
       <pubDate>Sat, 19 Apr 2025 19:01:45 -0700</pubDate>
-      <guid>http://localhost:33703/categories/marketing/</guid>
+      <guid>https://buildandrunner.github.io/categories/marketing/</guid>
       <description></description>
     </item>
     <item>
       <title>Tecnología</title>
-      <link>http://localhost:33703/categories/tecnolog%C3%ADa/</link>
+      <link>https://buildandrunner.github.io/categories/tecnolog%C3%ADa/</link>
       <pubDate>Sat, 19 Apr 2025 19:01:45 -0700</pubDate>
-      <guid>http://localhost:33703/categories/tecnolog%C3%ADa/</guid>
+      <guid>https://buildandrunner.github.io/categories/tecnolog%C3%ADa/</guid>
       <description></description>
     </item>
   </channel>

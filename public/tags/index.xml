@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on un blogsito</title>
-    <link>http://localhost:33703/tags/</link>
+    <link>https://buildandrunner.github.io/tags/</link>
     <description>Recent content in Tags on un blogsito</description>
     <generator>Hugo -- 0.129.0</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 19 Apr 2025 19:15:00 -0700</lastBuildDate>
-    <atom:link href="http://localhost:33703/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://buildandrunner.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Desarrollo De Productos</title>
-      <link>http://localhost:33703/tags/desarrollo-de-productos/</link>
+      <link>https://buildandrunner.github.io/tags/desarrollo-de-productos/</link>
       <pubDate>Sat, 19 Apr 2025 19:01:45 -0700</pubDate>
-      <guid>http://localhost:33703/tags/desarrollo-de-productos/</guid>
+      <guid>https://buildandrunner.github.io/tags/desarrollo-de-productos/</guid>
       <description></description>
     </item>
     <item>
       <title>IA Para Negocios</title>
-      <link>http://localhost:33703/tags/ia-para-negocios/</link>
+      <link>https://buildandrunner.github.io/tags/ia-para-negocios/</link>
       <pubDate>Sat, 19 Apr 2025 19:01:45 -0700</pubDate>
-      <guid>http://localhost:33703/tags/ia-para-negocios/</guid>
+      <guid>https://buildandrunner.github.io/tags/ia-para-negocios/</guid>
       <description></description>
     </item>
     <item>
       <title>Marketing Digital</title>
-      <link>http://localhost:33703/tags/marketing-digital/</link>
+      <link>https://buildandrunner.github.io/tags/marketing-digital/</link>
       <pubDate>Sat, 19 Apr 2025 19:01:45 -0700</pubDate>
-      <guid>http://localhost:33703/tags/marketing-digital/</guid>
+      <guid>https://buildandrunner.github.io/tags/marketing-digital/</guid>
       <description></description>
     </item>
     <item>
       <title>Retos Del Emprendedor</title>
-      <link>http://localhost:33703/tags/retos-del-emprendedor/</link>
+      <link>https://buildandrunner.github.io/tags/retos-del-emprendedor/</link>
       <pubDate>Sat, 19 Apr 2025 19:01:45 -0700</pubDate>
-      <guid>http://localhost:33703/tags/retos-del-emprendedor/</guid>
+      <guid>https://buildandrunner.github.io/tags/retos-del-emprendedor/</guid>
       <description></description>
     </item>
     <item>
       <title>Software Para PyMEs</title>
-      <link>http://localhost:33703/tags/software-para-pymes/</link>
+      <link>https://buildandrunner.github.io/tags/software-para-pymes/</link>
       <pubDate>Sat, 19 Apr 2025 19:01:45 -0700</pubDate>
-      <guid>http://localhost:33703/tags/software-para-pymes/</guid>
+      <guid>https://buildandrunner.github.io/tags/software-para-pymes/</guid>
       <description></description>
     </item>
   </channel>
