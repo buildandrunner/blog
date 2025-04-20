@@ -37,14 +37,15 @@ tags = [
 +++
 
 ## Crear != Mostrar
-Como desarrollador, a menudo nos sumergimos en la complejidad técnica – ya sea explorando arquitecturas como RISC-V, persiguiendo la maestría en la nube o incluso perdiéndonos en la creación de juegos 2D. Hay una profunda satisfacción en construir, resolver problemas con código, dar vida a una idea funcional. Es, a su manera, una forma de arte. Pero he descubierto una verdad incómoda: de poco sirve dominar las técnicas más avanzadas o crear algo increíble si nadie más llega a apreciarlo. Mi novia, artista, conoce bien esta sensación con sus lienzos y cuadernos llenos de proyectos sin terminar o sin mostrar; para nosotros, los desarrolladores, ese "arte" cobra vida en software funcional. Y hoy, mi mayor frustración no es no terminar un proyecto, sino no saber cómo mostrar al mundo uno que sí terminé.
+Como desarrollador, a menudo nos sumergimos en la complejidad técnica – ya sea explorando arquitecturas como RISC-V, persiguiendo la maestría en la nube o incluso perdiéndonos en la creación de juegos 2D. Hay una profunda satisfacción en construir, resolver problemas con código, dar vida a una idea funcional. Es, a su manera, una forma de arte. Pero he descubierto una verdad incómoda: de poco sirve dominar las técnicas más avanzadas o crear algo increíble si nadie más llega a apreciarlo. Mi prometida, artista, conoce bien esta sensación con sus lienzos y cuadernos llenos de proyectos sin terminar o sin mostrar; para nosotros, los desarrolladores, ese "arte" cobra vida en software funcional. Y hoy, mi mayor frustración no es no terminar un proyecto, sino no saber cómo mostrar al mundo uno que sí terminé.
 
 ## Presentando bandr: mi visión
 
 Este proyecto se llama bandr, y genuinamente creo que tiene el potencial de cambiar la forma en que las pequeñas y medianas empresas gestionan su día a día. Mi convicción nace de una idea simple pero poderosa: las tareas administrativas no deberían ser una carga pesada. Piensa en fichas técnicas, cotizaciones, correos, citas, inventario, contabilidad básica... gran parte de esto se basa en texto e información estructurada. ¿Qué pasaría si pudiéramos usar la inteligencia artificial para encargarnos de gran parte de esto, liberando tiempo valioso?
 Bandr es mi respuesta a esa pregunta. Es un sistema diseñado para hacer que el conocimiento dentro de un negocio sea fluido, actualizado y accesible, sin las batallas de organizar carpetas manuales o depender de procesos lentos.
 
-(¿Cómo Funciona bandr? Explicando la Tecnología de Forma Accesible)
+## ¿Cómo funciona bandr? 
+
 He dedicado los últimos tres meses a desarrollar bandr. En esencia, es un sistema basado en RAG (Retrieval Augmented Generation) con agentes de IA diseñados para actuar en función de la intención del usuario. Si un colaborador pregunta "¿Cuál es el inventario del producto X?", un agente inteligente determina la mejor manera de responder. Esto nos permite automatizar acciones complejas.
 Por ejemplo, si necesitas una cotización, un agente puede encargarse de buscar los precios más recientes, aplicar la fórmula de cálculo y enviar la información por correo o WhatsApp, todo automáticamente. La idea central es clara: queremos que la tecnología se encargue de las tareas tediosas, permitiéndonos a los humanos dedicarnos a lo que realmente aporta valor y nos apasiona. Extraemos el conocimiento necesario directamente de la información de tu propio negocio, de manera fiable y sin "alucinaciones", siempre disponible.
 
