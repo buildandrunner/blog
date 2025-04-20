@@ -2,46 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:33703/categories/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/desarrollo-de-productos/</loc>
+    <loc>http://localhost:33703/tags/desarrollo-de-productos/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/emprendimiento/</loc>
+    <loc>http://localhost:33703/categories/emprendimiento/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ia-para-negocios/</loc>
+    <loc>http://localhost:33703/tags/ia-para-negocios/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/marketing/</loc>
+    <loc>http://localhost:33703/categories/marketing/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/marketing-digital/</loc>
+    <loc>http://localhost:33703/tags/marketing-digital/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/la-paradoja-del-fundador-tecnico/</loc>
+    <loc>http://localhost:33703/posts/la-paradoja-del-fundador-tecnico/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:33703/posts/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/retos-del-emprendedor/</loc>
+    <loc>http://localhost:33703/tags/retos-del-emprendedor/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/software-para-pymes/</loc>
+    <loc>http://localhost:33703/tags/software-para-pymes/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:33703/tags/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/tecnolog%C3%ADa/</loc>
+    <loc>http://localhost:33703/categories/tecnolog%C3%ADa/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:33703/</loc>
     <lastmod>2025-04-19T19:15:00-07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/first/</loc>
+    <loc>http://localhost:33703/posts/first/</loc>
     <lastmod>2025-04-17T12:30:01-07:00</lastmod>
   </url>
 </urlset>
